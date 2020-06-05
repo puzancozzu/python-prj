@@ -1,3 +1,9 @@
+'''' A program to download video from YOuTube
+        References:  https://pypi.org/project/pytube/
+                    https://pypi.org/project/pafy/
+                    https://docs.python.org/3/library/tkinter.html
+                    https://www.tutorialspoint.com/python/python_gui_programming.htm'''
+
 from pytube import * #  importing libaries all
 from tkinter import * #graphics 
 from tkinter.filedialog import * #importing for diloauge box
